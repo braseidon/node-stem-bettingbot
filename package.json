@@ -1,7 +1,7 @@
 {
-  "name": "braseidon-stem-bettingbot",
+  "name": "node-stem-bettingbot",
   "version": "1.1.0",
-  "description": "This provides the functionality to have Stem Bots that accept bets.",
+  "description": "A plugin for alvinl/stem that allows betting commands.",
   "main": "index.js",
   "author": {
     "name": "Brandon Johnson",
@@ -10,13 +10,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/braseidon/braseidon-stem-bettingbot.git"
+    "url": "https://github.com/braseidon/node-stem-bettingbot.git"
   },
   "gitHead": "4ab9fcd50523539bb9e62f66893b5e902665772d",
   "readme": "",
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/braseidon/braseidon-stem-bettingbot/issues"
+    "url": "https://github.com/braseidon/node-stem-bettingbot/issues"
   },
-  "homepage": "https://github.com/braseidon/braseidon-stem-bettingbot"
+  "homepage": "https://github.com/braseidon/node-stem-bettingbot"
 }
